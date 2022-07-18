@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "outDir": "./dist/es/",
+    "sourceMap": true,
+    "noImplicitAny": true,
+    "moduleResolution": "node",
+    "target": "ES6",
+    "declaration": true,
+    "experimentalDecorators": true
+  },
+  "files": ["src/protvista-structure.ts"]
+}
